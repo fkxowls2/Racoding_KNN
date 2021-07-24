@@ -1,4 +1,4 @@
-# racoding_KNN
+# Racoding_KNN
 ### K-Nearest Neighbor Algorithm
 > KNN은 최근접 이웃 알고리즘이라고하며 Classification의 대표적인 알고리즘으로 지도 학습(supervisor Learning)에 해당합니다.
 > 
